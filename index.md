@@ -10,7 +10,7 @@
 ## Mini Project
 
 [Segmentation](https://drive.google.com/drive/u/0/folders/1rUb3lM8VzKszAJpXZOlDSSy3mKIOtuNQ)
-<img src="images/airbnb-pic.png"/>
+<img src="images/segmentation.png"/>
 
 
 

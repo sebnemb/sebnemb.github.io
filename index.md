@@ -9,7 +9,7 @@
 
 ## Mini Project
 
-[Segmentation](https://drive.google.com/drive/u/0/folders/1rUb3lM8VzKszAJpXZOlDSSy3mKIOtuNQ)
+[Segmentation](https://colab.research.google.com/drive/1JpybacnHWBBPErJlMCVusuEXEdjAmZXW?ouid=103879900998336723219&usp=drive_link)
 <img src="images/segmentation.png"/>
 
 

@@ -2,30 +2,13 @@
 
 ---
 
-### Category Name 1 
+### UP School Capstone Project
 
-[Project 1 Title](/sample_page)
+[Airbnb Data Analysis](https://colab.research.google.com/drive/19kTDCfD2-T588uvsQjhS3Yy-Uk2OD46F?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 

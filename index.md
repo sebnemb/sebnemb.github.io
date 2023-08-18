@@ -5,7 +5,7 @@
 ### UP School Capstone Project
 
 [Airbnb Data Analysis](https://colab.research.google.com/drive/19kTDCfD2-T588uvsQjhS3Yy-Uk2OD46F?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airbnb-pic.png"/>
 
 
 

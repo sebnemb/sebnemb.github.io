@@ -3,9 +3,9 @@ logo: "images/WhatsApp Image 2023-08-14 at 13.17.22.jpeg" # your photo (or logo)
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Bioengineer | Data Analyst
   <br><br>
-  Second description 
+  I'm Şebnem Boysan, a proficient bioengineer focused on data-driven insights.My expertise spans Python (Pandas, NumPy, Sklearn, Matplotlib, Seaborn libraries), SQL, and PowerBI, all acquired through the UP School Data Analysis Program.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sebnemboysan/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
